@@ -1,0 +1,10 @@
+Matérias que Tenho Estudado.
+
+Cálculo, Funções de Uma e Várias Variáveis.
+Termodinâmica.
+Mecânica dos Fluidos.
+Estrutura de Dados e Algoritmos.
+Introdução a Lógica.
+Introdução ao Git e Github.
+Projetos Ágeis com Scrum.
+Power BI.
