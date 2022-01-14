@@ -1,2 +1,2 @@
-# desafio-git-final
-Neste repositório estão descritos os meus estudos
+# Desafio-git-final
+## Neste repositório estão descritos as matérias que tenho estudado.
